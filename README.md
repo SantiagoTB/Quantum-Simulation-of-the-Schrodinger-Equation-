@@ -1,5 +1,5 @@
 # Quantum-Simulation-of-the-Schrodinger-Equation-
-he essence of performing a quantum simulation is to be able to predict the final state of a quantum system given its initial state. In this project, a quantum simulation using Qiskit has been developed to describe the dynamics of a quantum state influenced by the step potential.
+The essence of performing a quantum simulation is to be able to predict the final state of a quantum system given its initial state. In this project, a quantum simulation using Qiskit has been developed to describe the dynamics of a quantum state influenced by the step potential.
 
 References
 [1] Abouelela, Mohamed, "Quantum Simulation of the Schrodinger Equation using IBM's Quantum Computers" (2020). Capstone and Graduation Projects. 20. https://fount.aucegypt.edu/capstone/20
