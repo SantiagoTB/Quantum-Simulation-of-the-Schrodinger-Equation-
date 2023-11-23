@@ -7,7 +7,8 @@ References
 [2] Benenti, G., & Strini, G. (2008). Quantum simulation of the single-particle Schrödinger equation. American Journal of Physics, 76(7), 657–662. doi:10.1119/1.2894532
 
 
-additional comments
+Additional comments
+
 I am actively working on optimizing the quantum simulation, and I aim to make significant progress by this summer. Additionally, I plan to incorporate various potentials into the simulation for a more comprehensive study.
 
 Best regards :)
